@@ -2,4 +2,15 @@
     <string name="app_name">Exercise2</string>
     <string name="logo">logo</string>
     <string name="heading">Exercise 2 Going MAD</string>
+    <string name="name">Your name</string>
+    <string name="email">Your email</string>
+    <string name="phone">Your phone</string>
+    <string-array name="phone_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+    </string-array>
+    <string name="clear">CLEAR ALL</string>
+    <string name="submit">SUBMIT</string>
+    <string name="exit">EXIT</string>
 </resources>
