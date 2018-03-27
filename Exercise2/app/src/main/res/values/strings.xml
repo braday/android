@@ -13,4 +13,17 @@
     <string name="clear">CLEAR ALL</string>
     <string name="submit">SUBMIT</string>
     <string name="exit">EXIT</string>
+
+    <string name="screen_2">Screen 2</string>
+    <string name="nameTxt">Your name</string>
+    <string name="phoneTxt">Your phone</string>
+    <string name="spinner_home">Home</string>
+    <string name="emailTxt">Your email</string>
+    <string name="checkbox">I Agree</string>
+    <string name="submit_2">SUBMIT</string>
+    <string name="activity_two">Second Activity</string>
+    <string name="agree">I Agree</string>
+    <string name="disagree">I Disagree</string>
+
+
 </resources>
